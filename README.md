@@ -32,3 +32,11 @@ El programa muestra en consola:
 - Mensajes de actualización.
 - Mensajes de eliminación.
 - Mensajes de error cuando los datos son incorrectos.
+
+## Capturas de pantalla
+!(Captura de pantalla 2026-08-17 201149.png)
+!(Captura de pantalla 2026-08-17 201159.png)
+!(Captura de pantalla 2026-08-17 201205.png)
+!(Captura de pantalla 2026-08-17 201215.png)
+!(Captura de pantalla 2026-08-17 201227.png)
+!(Captura de pantalla 2026-08-17 201237.png)
