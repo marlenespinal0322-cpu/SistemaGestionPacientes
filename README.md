@@ -37,9 +37,6 @@ El programa muestra en consola:
 ### Menú principal
 ![Menú principal](capturas/menu.png)
 
-### Registrar nuevo paciente
-![Registrar paciente](capturas/registrar.png)
-
 ### Listar todos los pacientes
 ![Lista de pacientes](capturas/listar.png)
 
