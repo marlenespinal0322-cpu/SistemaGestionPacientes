@@ -51,8 +51,8 @@ El programa muestra en consola:
 
 ### Lista de pacientes sin registros
 
-![Lista vacía](capturas/lista_vacia.png)
+![Lista vacía](capturas/lista_vacia.jpeg)
 
 ### Actualizar paciente - ID no encontrado
 
-![ID no encontrado](capturas/actualizar_id_no_encontrado.png)
+![ID no encontrado](capturas/actualizar_id_no_encontrado.jpeg)
