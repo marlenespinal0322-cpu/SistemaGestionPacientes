@@ -34,9 +34,20 @@ El programa muestra en consola:
 - Mensajes de error cuando los datos son incorrectos.
 
 ## Capturas de pantalla
-!(Captura de pantalla 2026-08-17 201149.png)
-!(Captura de pantalla 2026-08-17 201159.png)
-!(Captura de pantalla 2026-08-17 201205.png)
-!(Captura de pantalla 2026-08-17 201215.png)
-!(Captura de pantalla 2026-08-17 201227.png)
-!(Captura de pantalla 2026-08-17 201237.png)
+### Menú principal
+![Menú principal](capturas/menu.png)
+
+### Registrar nuevo paciente
+![Registrar paciente](capturas/registrar.png)
+
+### Listar todos los pacientes
+![Lista de pacientes](capturas/listar.png)
+
+### Buscar paciente
+![Buscar paciente](capturas/buscar.png)
+
+### Actualizar paciente
+![Actualizar paciente](capturas/actualizar.png)
+
+### Eliminar paciente
+![Eliminar paciente](capturas/eliminar.png)
