@@ -48,3 +48,11 @@ El programa muestra en consola:
 
 ### Eliminar paciente
 ![Eliminar paciente](capturas/eliminar.png)
+
+### Lista de pacientes sin registros
+
+![Lista vacía](capturas/lista_vacia.png)
+
+### Actualizar paciente - ID no encontrado
+
+![ID no encontrado](capturas/actualizar_id_no_encontrado.png)
