@@ -2,7 +2,8 @@
 
 ## Integrantes
 - Genesis Javier Santana  — 25-SSON-2-011
-- Marlen Crismel Espinal Almodovar — 25-SSON-2-002
+- Marlen Crismel Espinal Almodovar  — 25-SSON-2-002
+- Vissanny Johandrys Encarnación Escalante — 25-SISN-2-027
 
 ## Descripción breve
 El programa es un sistema para gestionar información de pacientes. Permite registrar nuevos pacientes, mostrar los pacientes registrados, buscar información, actualizar datos y eliminar registros. Todo se realiza mediante un menú en consola y utilizando una lista para almacenar los datos.
